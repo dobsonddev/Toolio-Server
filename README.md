@@ -1,2 +1,2 @@
-# Craft-Server
-Server-side of Craft tool rental app
+# Toolio-Server
+Server-side of Toolio tool rental app
